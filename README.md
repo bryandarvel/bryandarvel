@@ -12,9 +12,6 @@
 - 📊 Passionate about **data** and the intersection between technology and language
 - 📖 In my free time, I read with a pen in hand — there's always a post-it nearby
 
-> *"The saints are those who chose to be saints; the mad are those who had no choice."*
-> — Oscar Wilde, **The Critic as Artist**
-
 <br clear="right"/>
 
 ---
