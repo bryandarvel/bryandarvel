@@ -2,7 +2,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=bryandarvel&label=Profile%20Views&color=6C63FF&style=for-the-badge)
 
-<img src="./seu-arquivo.gif" width="480" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bryandarvel/bryandarvel/main/coding.gif" width="480" />
+</p>
 
 ---
 
