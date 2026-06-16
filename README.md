@@ -2,22 +2,20 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=bryandarvel&label=Profile%20Views&color=6C63FF&style=for-the-badge)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bryandarvel/bryandarvel/main/coding.gif" width="480" />
-</p>
-
----
-
 ## 👨‍💻 About me
 
+<img src="https://raw.githubusercontent.com/bryandarvel/bryandarvel/main/coding.gif" width="380" align="right" />
+
 - 🎓 Tech student at **IFSUL** and developer at **SPLENDA IT LTDA**
-- 🧠 Currently learning **JavaScript, Node.js, Express, Vite, Prisma, Vercel, Railway and Python**
+- 🧠 Currently learning **JavaScript, Node.js, Express, Vite, Prisma, Vercel and Railway**
 - 🚀 Building **Léxis** — my final project, an AI-powered web platform for ENEM essay teachers
 - 📊 Passionate about **data** and the intersection between technology and language
 - 📖 In my free time, I read with a pen in hand — there's always a post-it nearby
 
 > *"The saints are those who chose to be saints; the mad are those who had no choice."*
 > — Oscar Wilde, **The Critic as Artist**
+
+<br clear="right"/>
 
 ---
 
